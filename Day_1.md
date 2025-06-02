@@ -1,6 +1,6 @@
-# Welcome to DigitalJournals
+# Welcome to Digital_Journals
 
-Hello and welcome to **DigitalJournals** — a personal space where I share my thoughts, experiences, and knowledge through writing. This repository is more than just a collection of articles; it’s a digital journal chronicling my journey in technology, creativity, and life.
+Hello and welcome to **Digital_Journals** — a personal space where I share my thoughts, experiences, and knowledge through writing. This repository is more than just a collection of articles; it’s a digital journal chronicling my journey in technology, creativity, and life.
 
 Here, you will find a variety of posts ranging from technical tutorials and coding tips to reflections on productivity, personal growth, and much more. Whether you’re a fellow developer, a curious learner, or someone looking for inspiration, I hope these writings offer you value and insight.
 
@@ -21,4 +21,4 @@ Each post is stored as a Markdown file, organized by date and topic. Feel free t
 
 ---
 
-Thank you for stopping by DigitalJournals. Let’s embark on this journey of knowledge and creativity together!
+Thank you for stopping by Digital_Journals. Let’s embark on this journey of knowledge and creativity together!
