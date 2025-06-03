@@ -1,0 +1,1 @@
+Today I was in my internship, and spent most of the day making a simple Navbar without any AI which was why it was very tough, I know that I am being completely brutally honest right here. Making a navbar is very easy but not without AI.
